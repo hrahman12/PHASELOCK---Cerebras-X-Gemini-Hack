@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/01-home.png" alt="PhaseLock — TorusNet × FusionCoreNet" width="900"><br>
+  <img src="assets/frontpage.png" alt="PhaseLock — TorusNet × FusionCoreNet" width="900"><br>
   <img src="assets/02-engines.png" alt="Two engines, one fabric" width="900"><br>
   <img src="assets/03-pipeline.png" alt="From prompt to verified consensus" width="900"><br>
   <img src="assets/04-cortices.png" alt="The twenty cortices" width="900"><br>
