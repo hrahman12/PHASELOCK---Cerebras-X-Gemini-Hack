@@ -1,4 +1,4 @@
-# PHASELOCK — TorusNet × FusionCoreNet
+# PhaseLock — TorusNet × FusionCoreNet
 
 **Reasoning-stability control for multi-agent reasoning, inspired by the Cerebras Wafer-Scale Engine.**
 
