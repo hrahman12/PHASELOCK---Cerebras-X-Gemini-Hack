@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="screenshots/01-home.png" alt="PhaseLock — TorusNet × FusionCoreNet" width="900"><br>
+  <img src="screenshots/02-engines.png" alt="Two engines, one fabric" width="900"><br>
+  <img src="screenshots/03-pipeline.png" alt="From prompt to verified consensus" width="900"><br>
+  <img src="screenshots/04-cortices.png" alt="The twenty cortices" width="900"><br>
+  <img src="screenshots/05-hardware.png" alt="Mapped to the Cerebras WSE-3" width="900">
+</p>
+
 # PhaseLock — TorusNet × FusionCoreNet
 
 **Reasoning-stability control for multi-agent reasoning, inspired by the Cerebras Wafer-Scale Engine.**
