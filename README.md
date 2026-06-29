@@ -1,9 +1,9 @@
 <p align="center">
   <img src="assets/frontpage.png" alt="PhaseLock — TorusNet × FusionCoreNet" width="900"><br>
-  <img src="assets/page2.png" alt="Two engines, one fabric" width="900"><br>
-  <img src="assets/page3.png" alt="From prompt to verified consensus" width="900"><br>
-  <img src="assets/page4.png" alt="The twenty cortices" width="900"><br>
-  <img src="assets/page5.png" alt="Mapped to the Cerebras WSE-3" width="900">
+  <img src="assets/page 2.png" alt="Two engines, one fabric" width="900"><br>
+  <img src="assets/page 3.png" alt="From prompt to verified consensus" width="900"><br>
+  <img src="assets/page 4.png" alt="The twenty cortices" width="900"><br>
+  <img src="assets/page 5.png" alt="Mapped to the Cerebras WSE-3" width="900">
 </p>
 
 # PhaseLock — TorusNet × FusionCoreNet
